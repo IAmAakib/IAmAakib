@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Your Space Banner -->
-  <img src="https://i.ibb.co/zVTT6wdb/image.png" alt="Stella's Banner" width="100%">
+  <img src="https://i.ibb.co/Tx8S6XGJ/image-removebg-preview-upscayl-4x-digital-art-4x.png" alt="Stella's Banner" width="100%">
 
   <p><em>"Orbiting through code, constellations, and creativity." 🌌</em></p>
 
