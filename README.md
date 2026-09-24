@@ -3,22 +3,15 @@
   <!-- Your Space Banner -->
   <img src="https://i.ibb.co/Tx8S6XGJ/image-removebg-preview-upscayl-4x-digital-art-4x.png" alt="Stella's Banner" width="100%">
 
-  <p><em>"Orbiting through code, constellations, and creativity." 🌌</em></p>
-
 </div>
 
----
-
-### 🚀 About Me
-* 🌱 I’m currently exploring the infinite universe of **Full-Stack Development**.
-* 🔭 My goal is to build stellar applications that feel intuitive and magical.
-* ⚡ Fun fact: I love Artificial Intelligence!
+I'm Stella, a student sitting in a room with a laptop, constantly experimenting and trying out new stuff. I see programming as a playground for curiosity where good UI and UX are just the bare minimum. Think of this space as an observatory filled with half-baked ideas, code experiments, and the quiet hum of building things just to see how they work.
 
 > *"The cosmos is within us. We are made of star-stuff." – Carl Sagan*
 
 ---
 
-### 🪐 My Tools of Choice
+### My tools of choice 🪐
 
 <div align="center">
 
