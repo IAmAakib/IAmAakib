@@ -12,7 +12,7 @@
 ### 🚀 About Me
 * 🌱 I’m currently exploring the infinite universe of **Full-Stack Development**.
 * 🔭 My goal is to build stellar applications that feel intuitive and magical.
-* ⚡ Fun fact: I love astronomy and clean architecture!
+* ⚡ Fun fact: I love Artificial Intelligence!
 
 > *"The cosmos is within us. We are made of star-stuff." – Carl Sagan*
 
